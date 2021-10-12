@@ -15,17 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
-  _________________
-< 👋 Hello there! >
-  -----------------
-         \   ^__^ 
-          \  (oo)\_______
-             (__)\       )\/\
-                 ||----w |
-                 ||     ||
-```
-
 - `fortune | cowsay` enthusiast.
 - Good at dev stuff.
 - Better at big infrastructure stuff.
