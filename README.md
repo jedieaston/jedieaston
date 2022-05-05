@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - Better at big infrastructure stuff.
 - Python > most other languages (but I do whatever). 
 - Currently serving as a ~~bot antagonizer~~ volunteer moderator for the [Windows Package Manager Community Repo](https://github.com/microsoft/winget-pkgs).
-- Looking for work! (I'm done with school in May '22)
 - 📫 How to reach me: tag me wherever, or email over there <---.
